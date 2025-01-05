@@ -1,5 +1,8 @@
-# ANRS
-A fast and efficient network port scanner written in Bash. This command-line tool enables TCP and UDP port scanning with multiple scanning options for network reconnaissance.
+<div align="center">
+    <img src="./Images/main_menu.png" alt="Main Menu" style="max-width: 100%; height: auto;"/>
+    <p>Main Menu</p>
+</div>
+ANRS is a fast and efficient network port scanner written in Bash. This command-line tool enables TCP and UDP port scanning with multiple scanning options for network reconnaissance.
 
 # Features
 - 🔍 TCP and UDP port scanning.
